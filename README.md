@@ -1,12 +1,16 @@
-This essay is dedicated to the public domain with [Creative Commons Zero](https://creativecommons.org/choose/zero/)!
+# Kaygı Kurdu ile Ruh Sağlığı İpuçları
 
-# How To Translate:
+Kaygıyı bir "bekçi köpeği" benzetmesiyle anlatan, kişisel hikâye, kuram ve dokuz alışkanlık önerisi içeren deneme. Nicky Case'in [Mental Health Tips feat. Anxiety Wolf](https://ncase.me/mental-health/) (2019) yazısının Türkçe uyarlaması.
 
-To translate: two files, 4500 words in total.
+**Canlı sayfa:** https://hypothermia15.github.io/kaygi-kurdu/
 
-1. *POST A GITHUB ISSUE letting folks know you're working on a translation.* This helps prevent conflict/multiple competing translations, and helps *you* find collaborators for the translation process!
-2. Find [the two-letter code of your target language](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). Examples: Français → "fr", 中文 → "zh"
-3. Make a copy of `index.md`, and rename the file `[your 2-letter code].md`. Translate your file! Export it to html somewhere.
-4. Make a copy of `index.html`, and rename the file `[your 2-letter code].html`. Translate the `<head></head>` parts, then paste your exported html from Step 2 where it says to paste it.
-5. Make a Pull Request! (I am slow to respond, so you may have to wait a while before your translation is live)
-6. Party 🎉
+- Yazan: [Nicky Case](https://ncase.me/)
+- Çeviri ve uyarlama: Doç. Dr. Miraç Barış Usta (Kasım 2026)
+
+Özgün çalışma [ncase/mental-health](https://github.com/ncase/mental-health) deposundadır. Bu kopyada yalnızca Türkçe sayfa bulunur. Çevirinin kaynağı `index.md`, yayımlanan sayfa `index.html` dosyasıdır. Yapılan değişikliklerin tamamı [UYARLAMA.md](UYARLAMA.md) dosyasında yazılıdır.
+
+Yazı bir hekimin değil, kendi deneyimini anlatan bir yazarın kaleminden çıkmıştır. Bilgilendirme amaçlıdır ve muayenenin yerini tutmaz.
+
+## Lisans
+
+Özgün deneme [Creative Commons Zero (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) ile kamu malıdır ([LICENSE.txt](LICENSE.txt)). Bu çeviri ve uyarlama da CC0 ile paylaşılır.

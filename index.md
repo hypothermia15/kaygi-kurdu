@@ -1,434 +1,447 @@
-**If you feel like you may harm yourself, please, please call a crisis hotline. They're free, confidential, and 24/7:**
+**Kendinize zarar verebileceğinizi düşünüyorsanız lütfen yalnız kalmayın ve hemen yardım isteyin.**
 
-**US:** [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org) – 1-800-273-8255    
-**US:** [The Trevor Project (for LGBTQ youth)](https://www.thetrevorproject.org) – 1-866-488-7386    
-**UK:** [Samaritans](https://www.samaritans.org) – 116 123    
-For all other countries, [see Wikipedia's list](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
+**112 Acil Çağrı Merkezi**'ni arayın ya da en yakın hastanenin acil servisine başvurun. Güvendiğiniz bir yakınınıza haber verin.
 
-For mental health advice from official sources, rather than a random internet person like me, check out these lists from the [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/).
+İhmal, istismar ya da şiddet söz konusuysa **ALO 183**'ü arayabilirsiniz (Aile ve Sosyal Hizmetler Bakanlığı, 7 gün 24 saat, ücretsiz).
+
+Acil olmayan durumlarda bir çocuk ve ergen psikiyatrisi ya da psikiyatri polikliniğinden randevu alın.
+
+<div class="not">Uyarlayanın notu: Özgün metinde ABD ve İngiltere kriz hatları yer alır. Türkiye'de intihara özel ulusal bir yardım hattı doğrulanamadığı için yerine yukarıdaki başvuru yolları yazılmıştır (Kasım 2026). Bu yazı bir hekimin değil, kendi deneyimini anlatan bir yazarın kaleminden çıkmıştır ve muayenenin yerini tutmaz.</div>
 
 <div style="text-align:center">・・・</div>
 
-*This article is a mix of personal story, the science of mental health, and practical tips. It's a 22-minute read in full, but you can just skip to the practical tips:*
+*Bu yazı kişisel bir hikâyeyi, ruh sağlığı bilimini ve uygulanabilir önerileri bir araya getiriyor. Tamamını okumak yaklaşık 22 dakika sürer. İstersen doğrudan önerilere atlayabilirsin:*
 
-1. **[An Old Friend](#toc_0)** (story)
-2. **[Therapies I Tried](#toc_1)** (story + theory)
-3. **[The Purpose of Pain, the Function of Feelings](#toc_2)** (theory)
-4. **[Habits 101](#toc_3)** (theory + practical)
-5. **[9 Evidence-Based Mental Health Habits](#toc_4)** (💥**the actually useful part**💥)
-6. **[TL;DR](#toc_18)** (summary of everything above)
-7. **[Me & My Wolf](#toc_19)** (story)
-8. **[Extra Resources](#toc_20)** (practical)
+1. **[Eski Bir Dost](#toc_0)** (hikâye)
+2. **[Denediğim Terapiler](#toc_1)** (hikâye + kuram)
+3. **[Acının Amacı, Duyguların İşlevi](#toc_2)** (kuram)
+4. **[Alışkanlıklara Giriş](#toc_3)** (kuram + uygulama)
+5. **[Kanıta Dayalı 9 Ruh Sağlığı Alışkanlığı](#toc_4)** (💥**asıl işe yarayan bölüm**💥)
+6. **[Kısaca](#toc_18)** (yukarıdakilerin özeti)
+7. **[Ben ve Kurdum](#toc_19)** (hikâye)
+8. **[Ek Kaynaklar](#toc_20)** (uygulama)
 
-*Fan-translations: [Deutsch](de.html)・[Русский](ru.html)・[(make your own?)](https://github.com/ncase/mental-health#how-to-translate)*
+*Özgün metin ve diğer diller: [ncase.me/mental-health](https://ncase.me/mental-health/)*
 
 ---
 
-# An Old Friend
+# Eski Bir Dost
 
-I remember my first panic attack. I was at the bus stop. I'd just moved to a new city, and the bus never showed up. So the little wolf in my brain said to me:
+İlk panik atağımı hatırlıyorum. Otobüs durağındaydım. Yeni bir şehre taşınmıştım ve otobüs bir türlü gelmiyordu. Beynimdeki küçük kurt bana şöyle dedi:
 
-> 🐺 We're in a new place, and we can't even figure out how busses here work?
-> 
-> 🐺 That means we won't be able to make friends! Or get home safely! Or buy things we need to survive!
-> 
-> 🐺 Wait, why is our heart pounding? Why can't we breathe?! Aren't heart attacks in our family medical history?!?! Oh my god is this it?!?!?!
-> 
+> 🐺 Yeni bir yerdeyiz ve buradaki otobüslerin nasıl çalıştığını bile çözemiyor muyuz?
+>
+> 🐺 Demek ki arkadaş da edinemeyeceğiz! Eve sağ salim de dönemeyeceğiz! Yaşamak için gereken şeyleri de alamayacağız!
+>
+> 🐺 Dur, kalbimiz neden böyle çarpıyor? Neden nefes alamıyoruz?! Ailemizde kalp krizi öyküsü yok muydu?!?! Aman Tanrım, yoksa bu o mu?!?!?!
+>
 > 🐺 AAAAAHHHHH
 
-In 4 mental steps, a no-show bus had me 100% *convinced* I was going to die.
+Gelmeyen bir otobüs, dört zihinsel adımda beni öleceğime yüzde yüz *ikna etmişti*.
 
-So, that's why I never trusted the saying, "trust your gut." Or, "your feelings are valid." Imagine this scene:
+İşte bu yüzden "içgüdülerine güven" sözüne hiç güvenmedim. "Duyguların geçerlidir" sözüne de. Şu sahneyi düşün:
 
-> Friend, to you: I feel worthless. I feel like a burden to everyone. I feel that deep down I'm an irredeemably broken, evil person. 
+> Arkadaşın sana: Kendimi değersiz hissediyorum. Herkese yük olduğumu hissediyorum. Derinlerde onarılamayacak kadar bozuk, kötü biri olduğumu hissediyorum.
 
-> You, to friend: Your feelings are valid! :D
+> Sen arkadaşına: Duyguların geçerli! :D
 
-Thus, I trusted those *other* platitudes: "Emotions are irrational." "The only thing to fear is fear itself." "Don't worry, be happy!"
+Ben de *öteki* klişelere güvendim: "Duygular akıl dışıdır." "Korkulacak tek şey korkunun kendisidir." "Üzülme, mutlu ol!"
 
-So, I looked for ways to shut my fear up.
+Korkumu susturmanın yollarını aradım.
 
-It worked! I used random hookups and risky sex to drown out the sounds of my brain screaming. Finally, now that I paid no attention at all to my fear... I walked straight into several abusive and dangerous situations.
+İşe yaradı! Beynimin çığlıklarını bastırmak için kendimi riskli davranışlara verdim. Korkuma artık hiç kulak asmadığım için de hırpalandığım, tehlikeli durumların içine dosdoğru yürüdüm.
 
-(FUN FACT: In 1994, neuroscientists found [a woman with both her amygdala destroyed](https://en.wikipedia.org/wiki/S.M._(patient)). She was the woman with no fear. No anxiety. No worries at all. That's why she's been victimized, mugged, and almost murdered several times.)
+(İLGİNÇ BİLGİ: 1994'te nörobilimciler [iki amigdalası da harap olmuş bir kadını](https://en.wikipedia.org/wiki/S.M._(patient)) tanımladı. Korkusu olmayan kadındı. Kaygısı yoktu, endişesi yoktu. Bu yüzden defalarca saldırıya uğradı, soyuldu ve birkaç kez ölümden döndü.)
 
-Thankfully, my friends were afraid *for* me, when I was too afraid to let myself be afraid. (The only thing to fear is fear itself, right?) My pals helped me realize my situation *was* abusive, and got me out of it.
+Neyse ki ben korkmaya korkarken arkadaşlarım *benim için* korkuyordu. (Korkulacak tek şey korkunun kendisiydi, değil mi?) İçinde bulunduğum durumun bana zarar verdiğini görmemi sağladılar ve beni oradan çıkardılar.
 
-A few months later, I heard the familiar voice of an old friend:
+Birkaç ay sonra eski bir dostun tanıdık sesini duydum:
 
 > 🐺 AAAAAHHHHH
 
 ---
 
-# Therapies I Tried
+# Denediğim Terapiler
 
-If this was a movie, that should've been the point I realized the value of fear.
+Bu bir film olsaydı korkunun değerini tam o anda anlamam gerekirdi.
 
-Nope. I learnt nothing.
+Hayır. Hiçbir şey öğrenmedim.
 
-It did, however, inspire me to *finally* try psychotherapy. I first tried [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT), which [meta-analyses have shown](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) is as good or better than medications for depression & anxiety. The therapy recommends "challenging your thoughts" by pointing out all the irrational "cognitive distortions" in your fears. (🤓 “Well, *Actually*...”)
+Ama bu olay beni *sonunda* psikoterapiyi denemeye itti. Önce [Bilişsel Davranışçı Terapi](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)'yi (BDT) denedim. [Meta-analizler](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) BDT'nin depresyon ve kaygıda ilaçlarla benzer ölçüde etkili olduğunu gösteriyor. Bu terapi, korkularındaki akıl dışı "bilişsel çarpıtmaları" tek tek göstererek "düşüncelerine meydan okumayı" önerir. (🤓 "Aslında *şöyle ki*...")
 
-CBT helped me a lot, but I quickly hit a plateau. My problem was I used CBT as a *weapon* against my fear. I still thought of fear as my *enemy*.
+<div class="not">Uyarlayanın notu: Özgün metin "ilaçlar kadar ya da daha iyi" der. Yazarın bağlantı verdiği meta-analiz (Roshanaei-Moghaddam ve ark., 2011, <a href="https://doi.org/10.1002/da.20829">doi:10.1002/da.20829</a>) erişkinlerde BDT ile ilaç tedavisi arasında en fazla çok küçük farklar bulmuştur. Hangi tedavinin uygun olduğu tanıya, şiddete ve yaşa göre hekimle birlikte kararlaştırılır.</div>
 
-Next, I tried a [mindfulness](https://en.wikipedia.org/wiki/Mindfulness)-based therapy – specifically, [Acceptance & Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) – which recommends *not* fighting your thoughts, but just letting your feelings pass by. (Metaphor I was told: anxiety's like quicksand – the more you struggle, the quicker you sink. Therefore: don't struggle.)
+BDT bana çok yardımcı oldu ama çabucak bir düzlüğe takıldım. Sorun şuydu: BDT'yi korkuma karşı bir *silah* olarak kullanıyordum. Korkuyu hâlâ *düşmanım* sayıyordum.
 
-Again, I used mindfulness as just another way to *ignore* my fear. Fear was *still* my enemy.
+Sonra [bilinçli farkındalık](https://en.wikipedia.org/wiki/Mindfulness) temelli bir terapiyi, [Kabul ve Kararlılık Terapisi](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy)'ni denedim. Bu terapi düşüncelerinle *savaşmamayı*, duyguların gelip geçmesine izin vermeyi önerir. (Bana anlatılan benzetme: Kaygı bataklık gibidir, ne kadar çırpınırsan o kadar hızlı batarsın. Öyleyse çırpınma.)
 
-It took me a *decade* to finally figure it out, but fear is––
+Yine aynı şeyi yaptım. Farkındalığı, korkumu *görmezden gelmenin* bir başka yolu olarak kullandım. Korku *hâlâ* düşmanımdı.
 
-Hang on, my wolf wants to say something:
+Anlamam *on yılımı* aldı ama korku aslında...
 
-> 🐺 Nicky, CBT and mindfulness have helped *millions* of people, and are backed by *hundreds* of studies. Who are *we* to poop all over what saves peoples' *lives?!*
+Bir saniye, kurdum bir şey söylemek istiyor:
 
-Thanks, wolf! That's a very good concern you've brought up.
+> 🐺 Nicky, BDT ve farkındalık *milyonlarca* insana yardım etti ve *yüzlerce* çalışmayla destekleniyor. İnsanların *hayatını* kurtaran şeyleri kötülemek *bize* mi kaldı?!
 
-I want to clarify: CBT and mindfulness *does* help people. They helped *me* immensely.
+Sağ ol kurt! Çok yerinde bir kaygı dile getirdin.
 
-But no technique will fully work if you believe that fear is an *enemy* to be "overcome" or "conquered". Or an annoying thing to "mindfully" put up with. As I was saying earlier: it took me a decade to finally figure it out, but fear is not an enemy.
+Açıklayayım: BDT ve farkındalık insanlara gerçekten yardım *eder*. *Bana* çok büyük yardımı oldu.
 
-Fear is a *friend.*
+Ama korkuyu "yenilecek" ya da "alt edilecek" bir *düşman*, ya da "farkındalıkla" katlanılacak can sıkıcı bir şey sayıyorsan hiçbir teknik tam olarak işe yaramaz. Az önce diyordum ki: Anlamam on yılımı aldı ama korku düşman değil.
+
+Korku bir *dost.*
 
 ---
 
-# The Purpose of Pain, The Function of Feelings
+# Acının Amacı, Duyguların İşlevi
 
-"Fear is a friend"?! That sounds stupid – even *morally offensive* – to someone with near-daily panic attacks. So why am *I*, someone who knows this pain, saying something like *that?*
+"Korku bir dost" mu?! Neredeyse her gün panik atak geçiren birine bu söz saçma, hatta *ahlaken rahatsız edici* gelir. Peki bu acıyı tanıyan *ben* neden *böyle* bir şey söylüyorum?
 
-To understand this, imagine putting your hand on a lit stove.
+Anlamak için elini yanan bir ocağa koyduğunu düşün.
 
 🔥👋😰
 
-Obviously: it would hurt.
+Belli olan: Canın yanar.
 
-Less obvious: it's a *good thing* that it would hurt.
+Daha az belli olan: Canının yanması *iyi bir şeydir*.
 
-Pain is an alarm system. It tells you when things are bad, *which is good.*
+Acı bir alarm sistemidir. İşler kötü gittiğinde sana haber verir *ve bu iyidir.*
 
-(FUN FACT: There's a rare condition called [congenital insensitivity to pain](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), where people can't feel pain. As a result, adults with the condition have lots of wounds, burns, and broken bones. They're the lucky ones – the rest are dead.)
+(İLGİNÇ BİLGİ: [Doğuştan ağrıya duyarsızlık](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain) denen nadir bir durum var. Bu kişiler ağrı hissedemez. Sonuçta erişkinliğe ulaşanların bedeni yaralarla, yanıklarla ve kırıklarla doludur. Onlar şanslı olanlar. Geri kalanı hayatta değil.)
 
-However, you'd also want an alarm system to go off *before* harm is done. This alarm system is called "fear". It's an alarm that predicts – and tries to protect you from – *future* harm.
+Ama bir alarm sisteminin zarar *oluşmadan önce* çalmasını da istersin. Bu alarm sisteminin adı "korku". *Gelecekteki* zararı öngören ve seni ondan korumaya çalışan bir alarm.
 
-Harm to what? Your fundamental human needs:
+Neye gelecek zarar? Temel insan gereksinimlerine:
 
-1. **Physical Needs** – survival, health, safety    
-   (When threatened: 🐺 “We're in danger!”)
-2. **Social Needs** – friends, family, lovers    
-   (When threatened: 🐺 “Nobody likes us!”)
-3. **"Becoming A Better Person" Needs** – learning, character growth, doing good for others   
-   (When threatened: 🐺 “We're a bad person!”)
+1. **Bedensel gereksinimler**: hayatta kalma, sağlık, güvenlik    
+   (Tehdit altındayken: 🐺 "Tehlikedeyiz!")
+2. **Sosyal gereksinimler**: arkadaşlar, aile, sevilen kişi    
+   (Tehdit altındayken: 🐺 "Bizi kimse sevmiyor!")
+3. **"Daha iyi bir insan olma" gereksinimleri**: öğrenmek, karakter gelişimi, başkalarına iyilik etmek   
+   (Tehdit altındayken: 🐺 "Biz kötü bir insanız!")
 
-(This list of needs is <span style="text-decoration:line-through">something I pulled out my bum</span> a condensed version of [Maslow's hierarchy](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Self-Determination Theory [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
+(Bu liste <span style="text-decoration:line-through">kafadan attığım bir şey</span> [Maslow'un gereksinimler hiyerarşisi](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) ile [Öz-Belirleme Kuramı](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)'nın [pdf] kısaltılmış bir birleşimi.)
 
-Here's my conjecture. It's not original, hundreds have said it before, but it still took me forever to learn:
+Varsayımım şu. Özgün değil, benden önce yüzlerce kişi söyledi, yine de öğrenmem çok uzun sürdü:
 
-**🚨 ALL FEELINGS ARE IMPERFECT SIGNALS ABOUT MET & UNMET NEEDS. 🚨**
+**🚨 BÜTÜN DUYGULAR, KARŞILANAN VE KARŞILANMAYAN GEREKSİNİMLERE DAİR KUSURLU SİNYALLERDİR. 🚨**
 
-This is the [functionalist view of emotions](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). But, what do I mean by "signal"?
+Buna [duyguların işlevselci açıklaması](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion) deniyor. Peki "sinyal" derken neyi kastediyorum?
 
-Imagine a cafe. When a customer arrives, the bell above the entrance door gives a *ding* signal.
+Bir kafe düşün. Müşteri gelince giriş kapısının üstündeki zil *çın* diye bir sinyal verir.
 
-Likewise, when a body/mind need is met – or is about to – we feel a Pleasure signal: joy, anticipation, curiosity, the "Aha!" moment, pride.
+Aynı biçimde, beden ya da zihnin bir gereksinimi karşılandığında ya da karşılanmak üzereyken bir Haz sinyali duyarız: sevinç, heyecanlı bekleyiş, merak, "Hah!" anı, gurur.
 
-Imagine a cafe's smoke alarm. When something in the kitchen is burning, it gives a *BEEP BEEP BEEP* signal.
+Şimdi kafenin duman alarmını düşün. Mutfakta bir şey yanınca *BİP BİP BİP* diye sinyal verir.
 
-Likewise, when a body/mind need is *not* being met – or is being threatened – we feel a Pain signal: fear, loneliness, frustration, guilt, grief.
+Aynı biçimde, beden ya da zihnin bir gereksinimi karşılan*madığında* ya da tehdit altındayken bir Acı sinyali duyarız: korku, yalnızlık, engellenmişlik, suçluluk, yas.
 
-But wait, isn't this just the same as "your feelings are always valid"? No, because *all signals can have false alarms*. Thus, negative feelings aren't *always* valid, but they aren't *always* irrational either. They're clues – not to be taken as 100% literal truth, but not to be thrown out entirely either. (Have an over-sensitive alarm? We'll see how to "re-calibrate" your signals with Habits, in the next section)
+Dur, bu "duyguların her zaman geçerlidir" demekle aynı şey değil mi? Değil, çünkü *her sinyal yanlış alarm verebilir*. Olumsuz duygular *her zaman* geçerli değildir ama *her zaman* akıl dışı da değildir. Birer ipucudur. Harfi harfine doğru sayılmamalı, büsbütün çöpe de atılmamalıdır. (Alarmın fazla mı hassas? Sinyallerini Alışkanlıklarla nasıl "yeniden ayarlayacağını" bir sonraki bölümde göreceğiz.)
 
-All my life, I thought mentally healthy people were just better at "coping" with "negative" emotions. *The very vocabulary of this idea is wrong.* **The mentally healthy don't "cope" with emotions, they collaborate *with* them. They know how to listen to, act on, and re-calibrate the signals.**
+Hayatım boyunca ruhen sağlıklı insanların "olumsuz" duygularla "baş etmekte" daha iyi olduğunu sandım. *Bu düşüncenin sözcükleri bile yanlış.* **Ruhen sağlıklı insanlar duygularıyla "baş etmez", onlarla iş birliği yapar. Sinyalleri dinlemeyi, onlara göre davranmayı ve onları yeniden ayarlamayı bilirler.**
 
-When the smoke alarm goes off:
+Duman alarmı çaldığında:
 
-* A healthy person knows to turn off the stove, open a window, and put baking soda over the grease fire. If the alarm's too sensitive, they'll move it somewhere further.
-* An anxious person throws water over the grease fire and makes it worse. Or plugs their ears to not hear the alarm. Or smashes the alarm with a hammer. Or tries to rationally argue with the alarm about its distortions. Or decides to "mindfully" ignore it.
+* Sağlıklı biri ocağı kapatmayı, pencereyi açmayı ve yanan yağın üstüne karbonat dökmeyi bilir. Alarm fazla hassassa onu daha uzak bir yere taşır.
+* Kaygılı biri yanan yağın üstüne su döker ve durumu kötüleştirir. Ya da alarmı duymamak için kulaklarını tıkar. Ya da alarmı çekiçle parçalar. Ya da alarmla çarpıtmaları üzerine mantıklı bir tartışmaya girişir. Ya da onu "farkındalıkla" görmezden gelmeye karar verir.
 
-Once I understood feelings = alarms & signals, I realized a lot of what I thought were emotions' bugs were actually features! "Negative" emotions turn on by themselves and you can't turn them off at will – *this is a good feature for an automatic smoke detector.* "Positive" emotions never last, they always re-adjust themselves to your new normal – *this is a good feature for smart thermostats.*
+Duyguların alarm ve sinyal olduğunu anlayınca, duyguların kusuru sandığım birçok şeyin aslında özellik olduğunu fark ettim! "Olumsuz" duygular kendiliğinden açılır ve istediğinde kapatamazsın. *Otomatik bir duman dedektörü için bu iyi bir özelliktir.* "Olumlu" duygular hiç kalıcı olmaz, her seferinde yeni normaline göre kendini ayarlar. *Akıllı bir termostat için bu iyi bir özelliktir.*
 
-A good life is not about minimizing Pain and maximizing Pleasure. That's like a cafe whose goal to minimize alarms & maximize entrance-bell-ringing. Feelings are *NOT* the ends, they are the *means* to the ends: a fulfilling life.
+İyi bir hayat Acıyı en aza indirip Hazzı en çoğa çıkarmak değildir. Bu, amacı alarmları azaltıp kapı zilini daha çok çaldırmak olan bir kafeye benzer. Duygular amaç *DEĞİLDİR*, amaca giden *araçtır*. Amaç dolu dolu yaşanan bir hayattır.
 
-So that's why I claim "fear is not an enemy, it's a friend." But what kind of friend is fear? The "Man's [sic] Best Friend" kind. In a sentence:
+"Korku düşman değil, dosttur" dememin nedeni bu. Peki korku nasıl bir dost? "İnsanın en iyi dostu" türünden. Tek cümleyle:
 
-**🐺 FEAR IS A GUARD DOG FOR YOUR NEEDS. 🐺**
+**🐺 KORKU, GEREKSİNİMLERİNİN BEKÇİ KÖPEĞİDİR. 🐺**
 
-When it yaps “nobody likes us!” it's trying (however badly) to protect your need for belonging. When it yaps “we're bad people!” it's trying (very poorly) to protect your need for personal growth.
+"Bizi kimse sevmiyor!" diye havladığında (ne kadar beceriksizce olsa da) ait olma gereksinimini korumaya çalışıyordur. "Biz kötü insanlarız!" diye havladığında (çok kötü bir biçimde) kişisel gelişim gereksinimini korumaya çalışıyordur.
 
-(The idea of a sub-agent in your mind isn't as wacky as it sounds – this thought's popped up independently in several fields: ["System 1 and System 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) in behavioral economics, ["The Elephant & The Rider"](https://en.wikipedia.org/wiki/The_Righteous_Mind) in social psychology, ["The Society of Mind"](https://en.wikipedia.org/wiki/Society_of_Mind) in cognitive science, etc)
+(Zihninde bir alt-aktör olduğu fikri göründüğü kadar tuhaf değil. Bu düşünce birkaç alanda birbirinden bağımsız ortaya çıktı: davranışsal iktisatta ["Sistem 1 ve Sistem 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow), sosyal psikolojide ["Fil ve Binicisi"](https://en.wikipedia.org/wiki/The_Righteous_Mind), bilişsel bilimde ["Zihin Toplumu"](https://en.wikipedia.org/wiki/Society_of_Mind) gibi.)
 
-However, maybe you have a hyperactive dog that barks at shadows. It's not the dog's fault. Maybe in the past, it's been abused or neglected. But the dog genuinely wants to help you! That's its literal evolved function!
+Ama belki sende gölgelere havlayan, aşırı hareketli bir köpek vardır. Bu köpeğin suçu değil. Belki geçmişte kötü muamele görmüş ya da ihmal edilmiştir. Yine de köpek sana gerçekten yardım etmek istiyor! Evrimle kazandığı işlev tam olarak bu!
 
-It yaps because it's a battered shelter dog, and it needs you to help it heal.
+Havlıyor, çünkü barınaktan gelmiş, hırpalanmış bir köpek ve iyileşmesi için senin yardımına ihtiyacı var.
 
-Sadly, many people's first response to the loud dog – including mine – was to lash out at it. But you can't beat the meanness out of a dog, or scare the fear out of it. (Note: [this is also true for literal dog-training [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
+Ne yazık ki birçok insanın, benim de, gürültücü köpeğe ilk tepkisi ona saldırmak oldu. Ama bir köpeği döverek huysuzluğundan, korkutarak korkusundan kurtaramazsın. (Not: [Bu gerçek köpek eğitimi için de geçerli](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf) [pdf].)
 
-So... how *do* you train your dog?
-
----
-
-# Habits 101
-
-To train a dog, first: don't beat the dog. Don't fear fear itself.
-
-So, what then, are you supposed to buy one of those clickers and train your own mind with operant conditioning?
-
-Well... yeah! Okay, dog clicker is optional. But, we have a word for when humans do operant conditioning on themselves:
-
-**Habits.**
-
-Here's a quick summary of the science of forming habits, [paraphrased from the British Journal of General Practice [pdf]](https://bjgp.org/content/bjgp/62/605/664.full.pdf):
-
-1. **Habit = When X, Then Y.**    
-   X is the "cue", Y is the "routine". Example: "when I come out of the shower, then I will floss my teeth."
-   
-2. **To build a habit, have a consistent When.**    
-   Example: if you're trying to eat healthier, don't just say "I'll eat more fruits". Give yourself a *specific time and/or place,* like, "after I have lunch at home I will have a piece of fruit". (Also known in psychology as an [Implementation Intention. [pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
-   
-3. **To build a habit, have a simple Then.**    
-   Example: if you're new to meditation, *don't* start with "meditate for 30 minutes a day." Start with "meditate for 2 minutes a day." Once 2 minutes becomes habit, *then* you can increase it. 
-   
-4. **To *break* a habit, change the When or Then:**    
-   Example: to stop myself from procrastinating, I use apps to block tempting websites. (Odysseus tied himself to the mast to resist the sirens' song.)
-   
-5. **Track your progress.**    
-    Personally: for each day I successfully do my When→Then plan, I draw an ⭕ on a calendar. If I fail, I draw an ❌.
-    
-6. **Do NOT try building more than one habit at a time.**    
-
-7. **It takes 66 days (on average) for a habit to become automatic.**    
-   Be patient! Mind-training takes time, but it's worth it.
-
-Hang on, my guard dog wants to say something:
-
-> 🐺 We just spent 1800+ words and we haven't *actually* given the reader any practical mental health tips! We're wasting their time!
-
-That's a good concern! I'll add a link at the top to let readers skip to the Mental Health Habits sections. Speaking of which:
+Peki... köpeğini *nasıl* eğitirsin?
 
 ---
 
-# 9 Evidence-Based Mental Health Habits
+# Alışkanlıklara Giriş
 
-This list is to help you start improving your mental health *today.* Nine sounds overwhelming, so just pick *one* habit from the list below, make a small, simple When→Then plan, and track your progress for 66 days or until it becomes automatic. Then come back, pick another habit, repeat.
+Bir köpeği eğitmek için önce: Köpeği dövme. Korkunun kendisinden korkma.
 
-## Habits to get to know your wolf better
+Ne yani, şu köpek eğitim tıkırtılarından alıp kendi zihnini edimsel koşullanmayla mı eğiteceksin?
 
-### 😌 Meditation:
+Şey... evet! Tamam, tıkırtı isteğe bağlı. Ama insanların kendi üzerinde edimsel koşullanma uygulamasının bir adı var:
 
-Yeah it's a cliché at this point, but meditation's been shown in meta-analyses to [improve anxiety & depression](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
+**Alışkanlıklar.**
 
-However, there's one cliché about meditation worth dispelling: the goal is *NOT* "clear your mind". Classic beginner mistake! The goal is to *observe* your mind, like a scientist: non-judgmentally. When the wolf starts howling – and it will – don't fear fear. Just listen. Observe.
+Alışkanlık edinme biliminin kısa bir özeti, [British Journal of General Practice'ten](https://bjgp.org/content/bjgp/62/605/664.full.pdf) [pdf] aktararak:
 
-Though I was critiquing "mindfulness" earlier (or my mis-implementation of it), meditation actually *is* profoundly helpful to my life.
+1. **Alışkanlık = X olunca Y yaparım.**    
+   X "ipucu", Y "rutin"dir. Örnek: "Duştan çıkınca diş ipi kullanacağım."
 
-**Example When→Then plan:** *“After brushing my teeth in the morning, I will go to the living room and set a timer to meditate for 2 minutes.”*
+2. **Alışkanlık edinmek için "olunca" kısmı hep aynı olsun.**    
+   Örnek: Daha sağlıklı beslenmeye çalışıyorsan yalnızca "daha çok meyve yiyeceğim" deme. Kendine *belirli bir zaman ve yer* ver: "Evde öğle yemeğinden sonra bir meyve yiyeceğim." (Psikolojide buna [Uygulama Niyeti](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf) [pdf] denir.)
 
-Recommended: [this 2-minute animated intro to meditation](https://www.youtube.com/watch?v=rqoxYKtEWEc).
+3. **Alışkanlık edinmek için "yaparım" kısmı basit olsun.**    
+   Örnek: Meditasyona yeni başlıyorsan "günde 30 dakika meditasyon" ile *başlama*. "Günde 2 dakika meditasyon" ile başla. 2 dakika alışkanlık olunca süreyi artırırsın.
 
-### 📓 Journaling:
+4. **Bir alışkanlığı *bırakmak* için "olunca" ya da "yaparım" kısmını değiştir:**    
+   Örnek: Ertelemeyi önlemek için beni oyalayan siteleri engelleyen uygulamalar kullanıyorum. (Odysseus sirenlerin şarkısına direnmek için kendini direğe bağlatmıştı.)
 
-Another cliché, but writing about your emotions has been shown to moderately [improve psychological *and physical* health [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf). Though, you have to write about your emotions *and try to understand them*. Expressing emotions without cognitive sense-making [seems to not help [pdf]](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf).
+5. **İlerlemeni izle.**    
+   Ben şöyle yapıyorum: "Olunca → yaparım" planımı uyguladığım her gün için takvime bir ⭕ çiziyorum. Uygulamadıysam bir ❌.
 
-Not sure how to begin journaling to understand your emotions? Here's a simple template:
+6. **Aynı anda birden fazla alışkanlık edinmeye ÇALIŞMA.**    
 
-*"Today when [event], I felt [feeling] because it seemed to fulfill/challenge my need for [need]. Next time, I'll try [experiments around that need]."*
+7. **Bir alışkanlığın kendiliğinden yapılır hâle gelmesi (ortalama) 66 gün sürer.**    
+   Sabırlı ol! Zihni eğitmek zaman alır ama buna değer.
 
-Example: *"Today when my friends all chatted without me, I felt insecure because it seemed to challenge my need for belonging. Next time, I'll try to fulfill my need for belonging either by speaking up more, or practicing being comfortable listening to my pals, actively and wholly, without needing to pipe up to prove my existence."*
+Bir saniye, bekçi köpeğim bir şey söylemek istiyor:
 
-(As much as I criticized "challenging your thoughts" earlier, *this* is where CBT shines. Knowing [common cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and how to reframe them *does* help you make sense of the Pain signals. Just don't approach it like Debate Club, where the point of the game is to "win" by Well, Actually-ing your fear. The goal should be to help your fear *be a better helper*. Help it help you.)
+> 🐺 1800'den fazla sözcük harcadık ve okura *hâlâ* uygulanabilir tek bir ruh sağlığı önerisi vermedik! Zamanlarını boşa harcıyoruz!
 
-**Example When→Then plan:** *“Before going to sleep, I will write/draw about my feelings for 10 minutes.”*
-
-・・・
-
-Remember, fear is a guard dog for your needs. If you hear it barking "we're in danger!" but with no *specific* cause, it's likely your *general* physical needs are not being fully met. To reassure your inner dog, *you* can take care of those needs:
-
-## Habits to protect your physical needs:
-
-Imagine if popsci magazines wrote, "Wow! Getting your computer's hardware wet *can affect how well the software runs*." Or "Wow! Having a lot of intensive software running *can make the hardware hot!*"
-
-That's how I feel about articles acting surprised that physical health affects mental health & vice versa.
-
-### 😴 Sleep:
-
-If natural selection decided to knock you out unconscious for a third of your life, you'd better *bet* there's a huge benefit to make that cost/benefit analysis work out.
-
-And it does. As the director of UC Berkeley’s Center for Human Sleep Science explains [in his book](https://www.indiebound.org/book/9781501144318), a good night's sleep reduces your risk for heart disease, cancer, Alzheimer's, depression, anxiety, and more. As a best-selling children's author once said, “[Go The F**k To Sleep](https://www.indiebound.org/book/9781617750250).”
-
-**Example When→Then plan:** *“When it's 10pm, I will turn off all my devices, and put them on charger, outside the bedroom, in a trash can, where they belong.”*
-
-Recommended: [F.lux](https://justgetflux.com/). It's an app that changes your screens' lights in evenings, because blue light messes up your sleep cycle.
-
-### 🏃‍♀️ Exercise:
-
-Jog. Hike. Play Frisbee. Just half an hour of moderate exercise a day is enough to give great benefits to your physical *and mental* health. [A recent meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) shows that exercise reduces depression *as much as* than psychotherapy or medication!
-
-**Example When→Then plan:** *“After getting home in the evening, I'll go for a 10 minute stroll.”* (Remember: you can always increase duration/intensity of a habit later)
-
-### 🍆 Eat:
-
-Your gut bacteria makes 90% of your body's serotonin. So: you keep your microbes happy, they keep you happy, capiche? (See: this [Mental Health Foundation report](https://www.mentalhealth.org.uk/publications/feeding-minds))
-
-There's a zillion diets out there, but most of them aren't based on science... and the science is full of failed replications and p-hacking. Personally, I go with Michael Pollan's anti-diet diet: [Eat food, not too much, mostly plants](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food).
-
-**Example When→Then plan:** *“Before grocery shopping, I'll eat a fruit so I'm not hungry and won't get tempted to buy chocolate-flavored Cheetos. Again.”*
-
-・・・
-
-Our physical needs are essential, but we're not just animals, we're *social* animals. So, if your guard dog barks "nobody likes us!" you can reassure it with these habits:
-
-## Habits to protect your social needs:
-
-High-quality social connections, not surprisingly, [reduces depression and anxiety [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). And "surprisingly", it even [reduces your risk of an early death by 50%](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (Again, it shouldn't *still* be surprising that hardware affects software and software affects hardware)
-
-### 👯‍♂️ Talk To Friends
-
-Some anecdote-not-data advice:
-
-1. Whenever *possible:* Real-Life Face-To-Face > Videochat > Phone Call > Text/Email. 
-2. Meet with friends *outside* your usual context. Examples: meet a friend from work *outside* work, go with housemates *out* to a movie. Otherwise, you'll probably lose touch after leaving the job or house.
-3. Because everyone's a busy bee who lives in a rectangular beehive called a calendar, *regularly schedule friend-hangouts*. Make friendship a *habit*, for both of you!
-
-Also, talk about your thoughts & feelings with pals! Besides strengthening the friendship, I suspect sharing your feelings with another person improves your mental health the same way journaling does: explaining your emotions makes you understand your own emotions.
-
-**Example When→Then plan:** *“Every first Monday of the month, I'll video-call my good friend who's in the distant, faraway land of New Haven, CT.”*
-
-### 🎳 Make New Friends
-
-Option 1: Ask friends to introduce you to their friends. (e.g: you all go to a movie together)
-
-Option 2: Join a class or volunteer group or bowling league on [Meetup.com](https://www.meetup.com/). (They're not paying me to say this.) I work independently and just moved to a new city, so it could've been super lonely, but Meetup helped me make new friends fast! Just remember to also meet your new friends *outside* of the meetup.
-
-**Example When→Then plan:** *“Every Thursday evening, I'll go to the French Meetup pour pratiquer mon terrible français.”*
-
-・・・
-
-Finally – our physical and social needs are essential, but we're not just social animals, we're *persons*. So, if your dog barks "we're terrible, evil, broken!", you can reassure it with these habits:
-
-## Habits to protect your "becoming a better person" needs:
-
-The last decade of ["the science of happiness"](https://en.wikipedia.org/wiki/Positive_psychology) has been all about how happiness is not enough.
-
-Researchers now identify [two kinds of well-being [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) – **Hedonia**, which is pleasure & fun, and **Eudaimonia**, which is purpose & fulfillment. The two aren't opposed, but they are different. And of course, [eudamonia predicts better psychological & physical health [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
-
-So, how do you find the meaning of life? Dunno, that's a question for philosophers. However, you can find *many* meaning(s) *in* life, like being a good friend, raising a child, volunteering for a cause... and pushing yourself to your fullest human potential, with habits like:
-
-### 💭 Learning
-
-[Draw on the right side of your brain](https://www.indiebound.org/book/9781585429202). [Play your ukelele](https://www.youtube.com/watch?v=H7Kn1olXCfM). [Understand quantum computing](https://quantum.country/qcvc). [Flirt in French](https://www.indiebound.org/book/9780385348119). [Split apples in half with your bare hands](https://www.youtube.com/watch?v=aPNTutAtbSU). [Make plushies](https://www.indiebound.org/book/9781454703648). [Learn Morse code](https://epxx.co/morse/koch.html). [Try a new team sport on Meetup.com](https://www.meetup.com/find/sports-fitness/). [Make chiptunes](https://beepbox.co/). [Learn Python programming](https://www.dataquest.io/course/python-for-data-science-fundamentals/). Play "explorable explanations" about [game theory](https://ncase.me/trust/), [music composition](https://learningmusic.ableton.com), [fourier transforms](http://www.jezzamon.com/fourier/index.html), [and more](https://explorabl.es/). [Cook](https://www.indiebound.org/book/9781476753836).
-
-Just pick *something* and set aside a day of the week (or hour of the day) to read a book, or [deliberately practice](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice) a skill.
-
-**Example When→Then plan:** *“Every Sunday evening, I'll try cooking a new recipe.”*
-
-Recommended: Spaced Repetition ("flashcards on steroids") to help you remember what you learn. See [this 7-minute video](https://www.youtube.com/watch?v=eVajQPuRmk8) or [this 80-minute long essay](http://augmentingcognition.com/ltm.html).
-
-### 😇 “It Builds Character”
-
-Benjamin Franklin was the first lifehacker. In-between experimenting with lightning and fighting to abolish slavery, he also strived to improve his moral character with the help of... index cards. [As described in his autobiography](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/): he carried a card with 7 columns – one for each day of the week – and 13 rows – one for each Virtue he wanted to work on. At the end of each day, he'd draw a dot for each Virtue he'd successfully practiced that day. He failed a lot. But over time, he got the crooked timbre of his human nature a little less crooked.
-
-I think we all can, too. You don't have to use Franklin's exact method. In fact, I recommend being more specific than "practice Humilty", and have a specific When→Then plan, like:
-
-**Example When→Then plan:** *“When I'm about to post something angry on the internet, I will wait one hour before hitting Send.”*
-
-“Be the change you want to see in the world” etc etc.
-
-・・・
-
-Know your wolf.   
-Physical needs.   
-Social needs.   
-Becoming a better person.
-
-What helps you meet *all* of these at the same time: **making fear your friend.** Building a healthier collaboration with your fear (know the wolf) will help you get better at protecting yourself (physical needs), be more vulnerable with trusted friends (social needs), and let you improve your moral character ("becoming a better person" needs).
-
-Hang on, my friend wants to say something:
-
-> 🐺 Gah! We've blabbered on for 3500+ words! How's a reader supposed to remember any of this?!
-
-Good point! Let's refresh the reader's memory with a summary:
+Yerinde bir kaygı! Okurların Ruh Sağlığı Alışkanlıkları bölümüne atlayabilmesi için en başa bir bağlantı ekleyeceğim. Hazır söz açılmışken:
 
 ---
 
-# TL;DR
+# Kanıta Dayalı 9 Ruh Sağlığı Alışkanlığı
 
-* **Do not fear fear itself.**
-* Pain is a protector. 
-* Fear is a guard dog for your needs.
-* **All feelings are imperfect signals about met/unmet needs.**
-* Our fundamental human needs are: physical needs, social needs, "becoming a better person" needs.
-* **Healthy people don't "cope" with emotions, they *collaborate* with them. They use "negative" emotions as clues, constructive criticism to improve their lives.**
-* If your fear guard-dog is too hyperactive, don't shoot the dog! Retrain it by forming habits.
-* **Habit = When X, Then Y.** 
-* To form habits, have a consistent "When" and simple "Then". Track your progress for ~66 days. One habit at a time.
-* Physical health affects mental health & vice versa. Hardware affects software, software affects hardware.
-* **9 Mental Health Habits for your software & hardware:** Meditation, Journaling, Sleep, Exercise, Eat, Talk with friends, Make new friends, Learning, Practicing virtues.
+Bu liste ruh sağlığını *bugün* iyileştirmeye başlamana yardım etsin diye var. Dokuz çok gibi geliyor, o yüzden aşağıdan *tek bir* alışkanlık seç, küçük ve basit bir "Olunca → yaparım" planı yap ve 66 gün boyunca ya da kendiliğinden yapılır hâle gelene kadar ilerlemeni izle. Sonra geri gel, bir başka alışkanlık seç, yinele.
+
+## Kurdunu daha iyi tanımak için alışkanlıklar
+
+### 😌 Meditasyon:
+
+Evet, artık klişe oldu ama meta-analizler meditasyonun [kaygı ve depresyonu azaltabildiğini](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754) gösteriyor.
+
+Yine de meditasyonla ilgili düzeltilmesi gereken bir klişe var: Amaç "zihnini boşaltmak" *DEĞİLDİR*. Tipik acemi hatası! Amaç zihnini bir bilim insanı gibi, yargılamadan *gözlemlemektir*. Kurt ulumaya başladığında, ki başlayacak, korkudan korkma. Yalnızca dinle. Gözle.
+
+Az önce "farkındalığı" (ya da onu yanlış uygulayışımı) eleştirmiştim ama meditasyon hayatıma gerçekten çok yardımcı oluyor.
+
+**Örnek "Olunca → yaparım" planı:** *"Sabah dişlerimi fırçaladıktan sonra salona gidip zamanlayıcıyı kurarak 2 dakika meditasyon yapacağım."*
+
+Öneri: [meditasyona giriş için 2 dakikalık bu animasyon](https://www.youtube.com/watch?v=rqoxYKtEWEc) (İngilizce).
+
+### 📓 Günlük tutmak:
+
+Bir başka klişe, ama duyguların hakkında yazmanın [ruhsal *ve bedensel* sağlığı](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf) [pdf] orta düzeyde iyileştirdiği gösterildi. Yalnız, duyguların hakkında yazman *ve onları anlamaya çalışman* gerekiyor. Anlamlandırmadan yalnızca duyguyu dışa vurmak [işe yaramıyor gibi görünüyor](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf) [pdf].
+
+Duygularını anlamak için günlük tutmaya nereden başlayacağını bilmiyor musun? İşte basit bir kalıp:
+
+*"Bugün [olay] olunca [duygu] hissettim, çünkü [gereksinim] gereksinimimi karşılıyor/zorluyor gibiydi. Bir dahaki sefere [o gereksinimle ilgili denemeler] deneyeceğim."*
+
+Örnek: *"Bugün arkadaşlarım bensiz sohbet edince kendimi güvensiz hissettim, çünkü ait olma gereksinimimi zorluyor gibiydi. Bir dahaki sefere ait olma gereksinimimi karşılamak için ya daha çok söz alacağım ya da varlığımı kanıtlamak için araya girmeden, arkadaşlarımı bütün dikkatimle dinlerken rahat olmayı deneyeceğim."*
+
+("Düşüncelerine meydan okumayı" az önce ne kadar eleştirmiş olsam da BDT'nin parladığı yer *burası*. [Sık görülen bilişsel çarpıtmaları](https://en.wikipedia.org/wiki/Cognitive_distortion) ve onları yeniden çerçevelemeyi bilmek Acı sinyallerini anlamlandırmana gerçekten yardım *eder*. Yeter ki buna, korkuna "aslında şöyle ki" diyerek "kazanmaya" çalıştığın bir münazara gibi yaklaşma. Amaç korkunun *daha iyi bir yardımcı olmasına* yardım etmek olmalı. Sana yardım etmesine yardım et.)
+
+**Örnek "Olunca → yaparım" planı:** *"Uyumadan önce 10 dakika duygularım hakkında yazacağım ya da çizeceğim."*
+
+・・・
+
+Unutma, korku gereksinimlerinin bekçi köpeğidir. "Tehlikedeyiz!" diye havladığını duyuyor ama *belirli* bir neden bulamıyorsan, büyük olasılıkla *genel* bedensel gereksinimlerin tam karşılanmıyordur. İçindeki köpeği yatıştırmak için o gereksinimlere *sen* bakabilirsin:
+
+## Bedensel gereksinimlerini korumak için alışkanlıklar:
+
+Popüler bilim dergilerinin şöyle yazdığını düşün: "Vay! Bilgisayarın donanımını ıslatmak *yazılımın çalışmasını etkileyebiliyor*." Ya da: "Vay! Çok fazla ağır yazılım çalıştırmak *donanımı ısıtabiliyor!*"
+
+Beden sağlığının ruh sağlığını, ruh sağlığının da beden sağlığını etkilemesine şaşıran yazıları okurken ben de böyle hissediyorum.
+
+### 😴 Uyku:
+
+Doğal seçilim hayatının üçte birinde seni bilinçsiz bırakmaya karar verdiyse, bu maliyeti karşılayan çok büyük bir yarar olduğundan emin olabilirsin.
+
+Var da. Kaliforniya Üniversitesi Berkeley'deki İnsan Uykusu Bilimi Merkezi'nin yöneticisinin [kitabında](https://www.indiebound.org/book/9781501144318) anlattığına göre iyi bir gece uykusu kalp hastalığı, kanser, Alzheimer, depresyon, kaygı ve daha birçok şeyin riskini azaltır.
+
+**Örnek "Olunca → yaparım" planı:** *"Saat 22.00 olunca bütün cihazlarımı kapatıp yatak odasının dışında şarja takacağım."*
+
+Öneri: [F.lux](https://justgetflux.com/). Akşamları ekranının ışığını değiştiren bir uygulama, çünkü mavi ışık uyku döngünü bozuyor.
+
+### 🏃‍♀️ Egzersiz:
+
+Koş. Doğa yürüyüşü yap. Frizbi oyna. Günde yarım saat orta şiddette egzersiz bedensel *ve ruhsal* sağlığına büyük yarar sağlamaya yeter. [Bir meta-analiz](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) egzersizin depresyon üzerinde büyük bir etkisi olduğunu gösteriyor!
+
+<div class="not">Uyarlayanın notu: Özgün metin egzersizin depresyonu "psikoterapi ya da ilaç kadar" azalttığını söyler. Bağlantı verilen meta-analiz (Schuch ve ark., 2016, <a href="https://doi.org/10.1016/j.jpsychires.2016.02.023">doi:10.1016/j.jpsychires.2016.02.023</a>) egzersizi kontrol gruplarıyla karşılaştırmıştır, psikoterapi ya da ilaçla değil. Egzersiz tedavinin yerine geçmez, tedaviye eklenir.</div>
+
+**Örnek "Olunca → yaparım" planı:** *"Akşam eve gelince 10 dakikalık bir yürüyüşe çıkacağım."* (Unutma: Bir alışkanlığın süresini ya da şiddetini sonradan her zaman artırabilirsin.)
+
+### 🥗 Beslenme:
+
+Bedenindeki serotoninin büyük bölümü bağırsaktadır ve bağırsak bakterileri bu üretimi etkiler. (Bkz. [Mental Health Foundation raporu](https://www.mentalhealth.org.uk/publications/feeding-minds).)
+
+<div class="not">Uyarlayanın notu: Özgün metin "bağırsak bakterilerin serotoninin %90'ını üretir, onları mutlu edersen onlar da seni mutlu eder" der. Serotonini bakteriler değil, bağırsaktaki enterokromaffin hücreler üretir. Bakteriler bu üretimi artırır (Yano ve ark., 2015, <a href="https://doi.org/10.1016/j.cell.2015.02.047">doi:10.1016/j.cell.2015.02.047</a>). Bu çalışmada gösterilen etkiler bağırsak hareketleri ve trombosit işleviyle ilgilidir, ruh hâliyle ilgili bir sonuç bildirilmez.</div>
+
+Ortalıkta sayısız diyet var ama çoğu bilime dayanmıyor. Bilimin kendisi de yinelenemeyen bulgular ve veri eşelemeyle dolu. Ben Michael Pollan'ın diyet karşıtı diyetini izliyorum: [Gerçek yiyecek ye, çok fazla değil, çoğunlukla bitki](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food).
+
+**Örnek "Olunca → yaparım" planı:** *"Market alışverişinden önce bir meyve yiyeceğim ki aç olmayayım ve canım abur cubur çekmesin. Yine."*
+
+・・・
+
+Bedensel gereksinimlerimiz temeldir ama yalnızca hayvan değiliz, *sosyal* hayvanlarız. Bekçi köpeğin "Bizi kimse sevmiyor!" diye havlarsa onu şu alışkanlıklarla yatıştırabilirsin:
+
+## Sosyal gereksinimlerini korumak için alışkanlıklar:
+
+Nitelikli sosyal bağların [depresyon ve kaygıyı azaltması](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf) [pdf] şaşırtıcı değil. "Şaşırtıcı" olan, güçlü sosyal ilişkilerin [daha uzun yaşamla da ilişkili olması](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (Yine: Donanımın yazılımı, yazılımın donanımı etkilemesi *hâlâ* şaşırtıcı olmamalı.)
+
+<div class="not">Uyarlayanın notu: Özgün metin "erken ölüm riskini %50 azaltır" der. Kaynak meta-analiz (Holt-Lunstad ve ark., 2010, <a href="https://doi.org/10.1371/journal.pmed.1000316">doi:10.1371/journal.pmed.1000316</a>) sosyal ilişkileri güçlü olanlarda hayatta kalma olasılığının %50 daha yüksek olduğunu bildirir (OR 1,50). Bulgu gözlemsel çalışmalara dayanır, neden-sonuç göstermez.</div>
+
+### 👯‍♂️ Arkadaşlarınla konuş
+
+Veriye değil deneyime dayanan birkaç öneri:
+
+1. *Mümkün olduğunda:* yüz yüze > görüntülü görüşme > telefon > mesaj ya da e-posta.
+2. Arkadaşlarınla alışılmış ortamın *dışında* buluş. Örnek: İş arkadaşınla iş *dışında* buluş, ev arkadaşlarınla *dışarıda* sinemaya git. Yoksa işten ya da evden ayrılınca büyük olasılıkla kopacaksınız.
+3. Herkes takvim denen dikdörtgen bir kovanda yaşayan meşgul bir arı olduğu için *arkadaş buluşmalarını düzenli olarak takvime koy*. Arkadaşlığı ikiniz için de bir *alışkanlık* yap!
+
+Bir de düşüncelerini ve duygularını arkadaşlarınla konuş! Arkadaşlığı güçlendirmesinin yanında, duygularını bir başkasıyla paylaşmanın ruh sağlığını günlük tutmakla aynı yoldan iyileştirdiğini düşünüyorum: Duygularını anlatırken onları kendin de anlarsın.
+
+**Örnek "Olunca → yaparım" planı:** *"Her ayın ilk pazartesi günü, uzak bir şehirde yaşayan yakın arkadaşımı görüntülü arayacağım."*
+
+### 🎳 Yeni arkadaşlar edin
+
+1. seçenek: Arkadaşlarından seni kendi arkadaşlarıyla tanıştırmalarını iste. (Örneğin hep birlikte sinemaya gidin.)
+
+2. seçenek: Bir kursa, gönüllü grubuna ya da bir spor takımına katıl. Ben bunun için [Meetup.com](https://www.meetup.com/)'u kullandım. Bağımsız çalışıyorum ve yeni bir şehre taşınmıştım, çok yalnız kalabilirdim ama buluşmalar çabucak yeni arkadaşlar edinmemi sağladı! Yalnız, yeni arkadaşlarınla buluşmanın *dışında* da görüşmeyi unutma.
+
+**Örnek "Olunca → yaparım" planı:** *"Her perşembe akşamı Fransızca konuşma buluşmasına gidip berbat Fransızcamı çalıştıracağım."*
+
+・・・
+
+Son olarak: Bedensel ve sosyal gereksinimlerimiz temeldir ama yalnızca sosyal hayvan değiliz, birer *kişiyiz*. Köpeğin "Berbatız, kötüyüz, bozuğuz!" diye havlarsa onu şu alışkanlıklarla yatıştırabilirsin:
+
+## "Daha iyi bir insan olma" gereksinimlerini korumak için alışkanlıklar:
+
+["Mutluluk bilimi"nin](https://en.wikipedia.org/wiki/Positive_psychology) son on yılı, mutluluğun yetmediğini anlatmakla geçti.
+
+Araştırmacılar artık [iki tür iyi oluş](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) [pdf] tanımlıyor: haz ve eğlence demek olan **Hedonia** ile amaç ve doyum demek olan **Eudaimonia**. İkisi birbirinin karşıtı değil ama farklı. Ve elbette [eudaimonia daha iyi ruhsal ve bedensel sağlığı öngörüyor](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf) [pdf].
+
+Peki hayatın anlamını nasıl bulursun? Bilmem, o filozofların sorusu. Ama hayatın *içinde* *birçok* anlam bulabilirsin: iyi bir arkadaş olmak, çocuk büyütmek, bir amaç için gönüllü çalışmak... ve kendini insan olarak varabileceğin en ileri noktaya taşımak. Şu alışkanlıklarla:
+
+### 💭 Öğrenmek
+
+[Beyninin sağ yanıyla çiz](https://www.indiebound.org/book/9781585429202). [Ukulele çal](https://www.youtube.com/watch?v=H7Kn1olXCfM). [Kuantum bilgisayarları anla](https://quantum.country/qcvc). [Elmayı çıplak elle ikiye böl](https://www.youtube.com/watch?v=aPNTutAtbSU). [Pelüş oyuncak yap](https://www.indiebound.org/book/9781454703648). [Mors alfabesi öğren](https://epxx.co/morse/koch.html). [Çip müziği yap](https://beepbox.co/). [Python öğren](https://www.dataquest.io/course/python-for-data-science-fundamentals/). [Oyun kuramı](https://ncase.me/trust/), [beste yapma](https://learningmusic.ableton.com), [Fourier dönüşümleri](http://www.jezzamon.com/fourier/index.html) [ve daha fazlası](https://explorabl.es/) üzerine "keşfedilebilir anlatımlarla" oyna. [Yemek yap](https://www.indiebound.org/book/9781476753836). (Bağlantılar İngilizcedir.)
+
+*Herhangi birini* seç ve haftanın bir gününü (ya da günün bir saatini) kitap okumaya ya da bir beceriyi [bilinçli olarak çalışmaya](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice) ayır.
+
+**Örnek "Olunca → yaparım" planı:** *"Her pazar akşamı yeni bir yemek tarifi deneyeceğim."*
+
+Öneri: Öğrendiklerini hatırlamana yardım eden Aralıklı Tekrar. Türkçe etkileşimli anlatımı için: [Herhangi Bir Şeyi (aşağı yukarı) Sonsuza Kadar Nasıl Hatırlarsın?](https://hypothermia15.github.io/aralikli-tekrar/)
+
+### 😇 "Karakter geliştirir"
+
+Benjamin Franklin ahlaki karakterini geliştirmek için... fiş kartları kullanmıştı. [Özyaşamöyküsünde anlattığına göre](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/) yanında bir kart taşırdı: haftanın her günü için bir tane olmak üzere 7 sütun, üzerinde çalışmak istediği her Erdem için bir tane olmak üzere 13 satır. Her günün sonunda, o gün başarıyla uyguladığı her Erdem için bir nokta koyardı. Çok kez başaramadı. Ama zamanla insan doğasının eğri kerestesini biraz daha az eğri hâle getirdi.
+
+Bence hepimiz yapabiliriz. Franklin'in yöntemini aynen kullanmak zorunda değilsin. Hatta "Alçakgönüllülük çalış" demekten daha somut olmanı ve belirli bir "Olunca → yaparım" planı yapmanı öneririm:
+
+**Örnek "Olunca → yaparım" planı:** *"İnternette öfkeli bir şey paylaşmak üzereyken Gönder'e basmadan önce bir saat bekleyeceğim."*
+
+"Dünyada görmek istediğin değişimin kendisi ol" falan filan.
+
+・・・
+
+Kurdunu tanı.   
+Bedensel gereksinimler.   
+Sosyal gereksinimler.   
+Daha iyi bir insan olmak.
+
+Bunların *hepsini* aynı anda karşılamana yardım eden şey: **korkuyu dost edinmek.** Korkunla daha sağlıklı bir iş birliği kurmak (kurdunu tanı) kendini daha iyi korumana (bedensel gereksinimler), güvendiğin arkadaşlarına daha açık olabilmene (sosyal gereksinimler) ve ahlaki karakterini geliştirmene ("daha iyi bir insan olma" gereksinimleri) yardım eder.
+
+Bir saniye, dostum bir şey söylemek istiyor:
+
+> 🐺 Öff! 3500'den fazla sözcüktür konuşuyoruz! Okur bunların herhangi birini nasıl hatırlasın?!
+
+Haklısın! Okurun belleğini bir özetle tazeleyelim:
 
 ---
 
-# Me & My Wolf
+# Kısaca
 
-If this was a movie, I should've learnt to befriend my wolf in a shocking moment of catharsis, with explosions in the background. That would have made a good story.
+* **Korkunun kendisinden korkma.**
+* Acı bir koruyucudur.
+* Korku, gereksinimlerinin bekçi köpeğidir.
+* **Bütün duygular, karşılanan ve karşılanmayan gereksinimlere dair kusurlu sinyallerdir.**
+* Temel insan gereksinimlerimiz: bedensel gereksinimler, sosyal gereksinimler, "daha iyi bir insan olma" gereksinimleri.
+* **Sağlıklı insanlar duygularıyla "baş etmez", onlarla *iş birliği* yapar. "Olumsuz" duyguları ipucu olarak, hayatlarını iyileştirecek yapıcı eleştiri olarak kullanırlar.**
+* Bekçi köpeğin fazla hareketliyse köpeği cezalandırma! Alışkanlık edinerek onu yeniden eğit.
+* **Alışkanlık = X olunca Y yaparım.**
+* Alışkanlık edinmek için "olunca" kısmı hep aynı, "yaparım" kısmı basit olsun. İlerlemeni yaklaşık 66 gün izle. Her seferinde tek alışkanlık.
+* Beden sağlığı ruh sağlığını, ruh sağlığı beden sağlığını etkiler. Donanım yazılımı, yazılım donanımı etkiler.
+* **Yazılımın ve donanımın için 9 Ruh Sağlığı Alışkanlığı:** meditasyon, günlük tutmak, uyku, egzersiz, beslenme, arkadaşlarla konuşmak, yeni arkadaşlar edinmek, öğrenmek, erdemleri çalışmak.
 
-Instead, I only learnt to befriend my wolf *while trying* to make a good story.
+---
 
-When I started writing my game *Adventures With Anxiety*, I planned it to be a bunch of CBT & mindfulness lessons wrapped up in a narrative. Two problems: 1) The story felt inauthentic. 2) I couldn't make the Anxiety character's dialogue come out naturally.
+# Ben ve Kurdum
 
-But then I realized an obvious solution for Problem #2: *I* shouldn't write the Anxiety character, my *anxiety* should write the Anxiety character.
+Bu bir film olsaydı kurdumla dost olmayı, arka planda patlamalar olan sarsıcı bir arınma anında öğrenmem gerekirdi. İyi bir hikâye olurdu.
 
-Thus began a weird collaboration.
+Oysa kurdumla dost olmayı, iyi bir hikâye yazmaya *çalışırken* öğrendim.
 
-Strange side effect: I started *liking* my anxiety. Because now, whenever my anxiety went on a thought-spiral like:
+*Adventures With Anxiety* (Kaygıyla Maceralar) adlı oyunumu yazmaya başladığımda onu bir anlatıya sarılmış BDT ve farkındalık dersleri olarak tasarlamıştım. İki sorun vardı: 1) Hikâye içten gelmiyordu. 2) Kaygı karakterinin repliklerini doğal yazamıyordum.
 
-> 🐺 What can we even do that matters in the grand scheme of things? Contribute to humanity? All great works decay like Ozymandias. Love? Death always does it part. And how much death there is! We'll die, our loved ones will die, the 2nd Law of Thermodynamics means even the *universe* will die! LIFE HAS NO MEANING, DEATH HAS NO MEANING, AND EVEN MEANING HAS NO MEANI–
+Sonra 2. sorun için apaçık bir çözüm fark ettim: Kaygı karakterini *ben* yazmamalıydım, *kaygım* yazmalıydı.
 
-I would think:
+Böylece tuhaf bir iş birliği başladı.
 
-1) holy s*** that's terrifying    
-2) this is *incredible* writing material! Thanks, wolf!
+Garip bir yan etkisi oldu: Kaygımdan *hoşlanmaya* başladım. Çünkü artık kaygım şöyle bir düşünce sarmalına girdiğinde:
 
-This also solved Problem #1: the reason the story felt forced was because I never gave the Anxiety character a real motivation. It was just a Skeletor-like "evil for the sake of being evil" enemy. But when I just *asked* my anxiety what its motivation was, it told me:
+> 🐺 Büyük resimde önemi olan ne yapabiliriz ki? İnsanlığa katkı mı? Bütün büyük eserler Ozymandias gibi çürür. Sevgi mi? Ölüm hep ayırır. Hem ne kadar çok ölüm var! Biz öleceğiz, sevdiklerimiz ölecek, Termodinamiğin 2. Yasası'na göre *evren* bile ölecek! HAYATIN ANLAMI YOK, ÖLÜMÜN ANLAMI YOK, ANLAMIN BİLE ANLAMI Y–
 
-> 🐺 I want you to be safe.
+Şöyle düşünüyordum:
 
-And with that core motivation, *Adventures With Anxiety* basically wrote itself. Not only that, I learnt that why CBT & mindfulness plateaued out for me: because I was still thinking of fear as my enemy.
+1) bu gerçekten dehşet verici    
+2) bu *harika* bir yazı malzemesi! Sağ ol kurt!
 
-Until you realize fear is (trying to be) your guard-dog, you will still fear fear itself.
+Bu 1. sorunu da çözdü: Hikâyenin zorlama durmasının nedeni, Kaygı karakterine hiç gerçek bir güdü vermemiş olmamdı. "Kötü olmak için kötü" bir çizgi film düşmanıydı. Ama kaygıma güdüsünün ne olduğunu *sorduğumda* bana şunu söyledi:
 
-And the more my battered shelter dog and I collaborated on the game, the more we collaborated in the rest of our life. I'd hear it bark "they hate us!", I'd see the Pain signal below the mere words, and we'd try an experiment to fulfill the unmet need. Together. As a team.
+> 🐺 Güvende olmanı istiyorum.
 
-Alright, I think I'll let my friend have the final say. Wolf?
+Bu temel güdüyle *Adventures With Anxiety* neredeyse kendi kendini yazdı. Üstelik BDT ve farkındalığın bende neden bir düzlüğe takıldığını da anladım: Korkuyu hâlâ düşmanım sayıyordum.
 
-> 🐺 Okay this article is *still* too long. It's 4000+ words! Or maybe it's not long *enough*, you didn't even cover other therapies like psychodynamic or humanist or logotherapy, let alone the Dodo Bird controversy: [recent meta-analyses show that all the main psychotherapies are *equivalent*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), with CBT maybe *sliiiiightly* better in the short-run! Speaking of which, what about the infamous meta-analysis that shows [psychiatric medication may be up to 75% placebo](https://psycnet.apa.org/record/1999-11094-001)? Heck, what with [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), how do we know *anything* in this 4000+ word monster is scientifically accurate?! Also we're writing this on the 15th, and you promised the game to come out on the 17th, so please shut up and stop writing.
+Korkunun bekçi köpeğin olduğunu (olmaya çalıştığını) fark edene kadar korkunun kendisinden korkmayı sürdürürsün.
 
-Fair enough! It's good in science to be skeptical, though I'd like to say: even if all therapies have been proven equivalent, they've been proven equivalently *good*, and much better than lack of therapy (self-help or professional). And even if meds are only 25% better than placebo, being 25% better at saving lives is still a *lot*. Also, science is a process of learning from mistakes, and gratefully, scientists *are* learning from the replication crisis.
+Barınaktan gelmiş hırpalanmış köpeğimle oyun üzerinde ne kadar iş birliği yaptıysak hayatımızın geri kalanında da o kadar iş birliği yaptık. "Bizden nefret ediyorlar!" diye havladığını duyuyor, sözcüklerin altındaki Acı sinyalini görüyordum ve karşılanmayan gereksinimi gidermek için bir deneme yapıyorduk. Birlikte. Bir takım olarak.
 
-Still, thanks for the constructive criticism, and protecting my need for intellectual honesty!
+Peki, son sözü dostuma bırakayım. Kurt?
 
-> 🐺 You're welcome. And, hey, thanks for finally being patient and understanding with me... instead of drowning me out with risky behaviors and "Well, Actually"s.
+> 🐺 Tamam, bu yazı *hâlâ* çok uzun. 4000'den fazla sözcük! Ya da belki yeterince uzun *değil*, psikodinamik, hümanist ya da logoterapi gibi başka terapilere hiç değinmedin bile! Hem [yinelenebilirlik krizi](https://en.wikipedia.org/wiki/Replication_crisis) ortadayken bu 4000 sözcüklük canavardaki *herhangi bir şeyin* bilimsel olarak doğru olduğunu nereden bileceğiz?! Ayrıca bunu ayın 15'inde yazıyoruz ve oyunu 17'sinde çıkaracağına söz verdin, o yüzden lütfen sus ve yazmayı bırak.
 
-Of course! Any final words?
+Haklısın! Bilimde kuşkucu olmak iyidir. Şunu da ekleyeyim: Bilim hatalardan öğrenme sürecidir ve neyse ki bilim insanları yinelenebilirlik krizinden *öğreniyor*.
 
-> 🐺 Yes. Just one.
+<div class="not">Uyarlayanın notu: Özgün metnin bu bölümünde psikoterapilerin birbirine eşdeğer olduğuna ve psikiyatrik ilaçlarda plasebo payına dair iki tartışmalı meta-analiz ile yazarın bunlara verdiği yanıt yer alır. Bağlamı olmadan yanlış anlaşılabileceği için bu cümleler uyarlamadan çıkarılmıştır. İlaç tedavisiyle ilgili kararlar hekimle birlikte verilir. Kullanılan bir ilaç hekime danışmadan bırakılmamalıdır.</div>
 
-Yeah?
+Yine de yapıcı eleştirin ve entelektüel dürüstlük gereksinimimi koruduğun için teşekkürler!
+
+> 🐺 Rica ederim. Bu arada, sonunda bana karşı sabırlı ve anlayışlı olduğun için teşekkürler... beni riskli davranışlarla ve "aslında şöyle ki"lerle bastırmak yerine.
+
+Ne demek! Son bir sözün var mı?
+
+> 🐺 Var. Tek bir tane.
+
+Evet?
 
 > 🐺 AAAAAHHHHH
 
 ---
 
-# Extra Resources:
+# Ek Kaynaklar:
 
-More mental health tips from: [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
+Başka ruh sağlığı önerileri (İngilizce): [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) ve [İngiltere Ulusal Sağlık Hizmeti](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
 
-[Feeling Good](https://www.indiebound.org/book/9780380810338), the classic 1980 book that popularized CBT.    
-[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), a 1946 book written by a Holocaust survivor & psychotherapist.    
-[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), a 2-minute animation.    
+[Feeling Good](https://www.indiebound.org/book/9780380810338), BDT'yi yaygınlaştıran 1980 tarihli klasik kitap.    
+[İnsanın Anlam Arayışı](https://www.indiebound.org/book/9780807014295), Holokost'tan sağ kurtulan bir psikoterapistin 1946'da yazdığı kitap.    
+[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), 2 dakikalık bir animasyon.    
 
 ・・・
 
-This essay is the "companion piece" for my interactive story/game, [Adventures With Anxiety](https://ncase.me/anxiety). If you'd like to help me make more free, educational words+games, you can throw coins at me [on Patreon](https://www.patreon.com/ncase)!
+Bu deneme, etkileşimli hikâyem/oyunum [Adventures With Anxiety](https://ncase.me/anxiety)'nin "eşlikçi yazısı"dır.
 
-Huge thanks to these folks for gifting feedback on this essay: Glen Chiacchieri, Lexi Lockwell, Spacie. Any problematic words remaining are my own.
+Bu denemeye geri bildirim armağan eden şu kişilere çok teşekkürler: Glen Chiacchieri, Lexi Lockwell, Spacie. Geriye kalan sorunlu sözcükler bana aittir.
 
-Finally, thank *you* for reading! Whoever you are: Stay determined. Good luck.
+Son olarak, okuduğun için *sana* teşekkürler! Kim olursan ol: Kararlı kal. Bol şans.
 
 <3,    
 ~ Nicky Case
+
+<div class="not"><strong>Uyarlama hakkında.</strong> Bu sayfa, Nicky Case'in <a href="https://ncase.me/mental-health/">Mental Health Tips feat. Anxiety Wolf</a> (2019) denemesinin Türkçe uyarlamasıdır. Özgün metin Creative Commons Zero (CC0) ile kamu malıdır. Çeviren ve uyarlayan: Doç. Dr. Miraç Barış Usta (Kasım 2026). Başvuru hatları Türkiye'ye göre yeniden yazıldı, kişisel anlatıdaki bazı ifadeler yumuşatıldı, altı yere uyarlayanın notu eklendi, birkaç cümle çıkarıldı. Değişikliklerin tamamı <a href="https://github.com/hypothermia15/kaygi-kurdu/blob/HEAD/UYARLAMA.md">UYARLAMA.md</a> dosyasında yazılıdır. Yazı bilgilendirme amaçlıdır ve bireysel muayenenin yerini tutmaz.</div>
